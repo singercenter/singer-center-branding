@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(supabase migration list *)",
+      "Bash(vercel whoami)",
+      "Bash(vercel env ls *)",
+      "Bash(supabase projects list *)"
+    ]
+  }
+}
